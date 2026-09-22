@@ -1,3 +1,4 @@
+const API_URL = import.meta.env.VITE_API_URL;
 import { createSlice, createAsyncThunk, PayloadAction} from '@reduxjs/toolkit';
 import type {Pizza, FetchPizzasParams, PizzaSliceState} from './types';
 
@@ -17,7 +18,7 @@ export const fetchPizzas = createAsyncThunk<Pizza[], FetchPizzasParams>('pizza/f
     }
 
 
-    const response = await fetch(`http://192.168.3.40:3001/items?${urlParams.join('&')}`);
+    const response = await fetch(`${API_URL}/items?${urlParams.join('&')}`);
     return response.json();
 });
 

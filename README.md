@@ -1,78 +1,194 @@
-# React + TypeScript + Vite
+# 🍕 Pizza App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Вебзастосунок для перегляду та замовлення піци з категоріями, фільтрацією, сортуванням, пагінацією та мультимовністю.
 
-Currently, two official plugins are available:
+## 🛠 Стек
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React 19
+- TypeScript
+- Redux Toolkit
+- React Router v6
+- Fetch API
+- React Hooks
+- Prettier
+- CSS Modules / SCSS
+- React Content Loader
+- React Pagination
+- Lodash Debounce
+- i18next
+- JSON Server
+- Vite
 
-## React Compiler
+## 🚀 Встановлення
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Клонуйте репозиторій:
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
+```bash
+git clone https://github.com/ngarnashevich/pizza-app.git
 ```
 
-You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
+Перейдіть у папку проєкту:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+```bash
+cd pizza-app
+```
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+Встановіть залежності:
 
+```bash
+npm install
+```
+
+## 🗄 JSON Server
+
+Для роботи з локальним API використовується `json-server`.
+
+Встановіть його як dev-залежність:
+
+```bash
+npm install -D json-server
+```
+
+Перевірити встановлення:
+
+```bash
+npx json-server --version
+```
+
+## 📦 Створення бази даних
+
+Дані для JSON Server зберігаються у файлі:
+
+```text
+data/items.json
+```
+
+Перед запуском API потрібно створити файл:
+
+```text
+db.json
+```
+
+та перенести в нього дані з `data/items.json`.
+
+Для macOS / Linux:
+
+```bash
+cp data/items.json db.json
+```
+
+Для Windows:
+
+```cmd
+copy data\items.json db.json
+```
+
+Структура проєкту:
+
+```text
+pizza-app/
+├── data/
+│   └── items.json
+├── db.json
+├── src/
+├── public/
+├── .env
+├── .env.example
+├── package.json
+└── ...
+```
+
+## ⚙️ Environment Variables
+
+URL API не потрібно прописувати безпосередньо в компонентах. Він зберігається в `.env`.
+
+Створіть у корені проєкту файл:
+
+```text
+.env
+```
+
+Приклад:
+
+```env
+VITE_API_URL=http://localhost:3000
+```
+
+Також у репозиторії є файл:
+
+```text
+.env.example
+```
+
+Його потрібно використовувати як шаблон:
+
+```env
+VITE_API_URL=http://localhost:3000
+```
+
+`.env` не повинен потрапляти в Git, тому він доданий до `.gitignore`.
+
+> Для Vite змінні, які використовуються у frontend-коді, повинні починатися з `VITE_`.
+
+## ▶️ Запуск JSON Server
+
+Після створення `db.json` запустіть сервер:
+
+```bash
+npx json-server db.json
+```
+
+За замовчуванням API буде доступне за адресою:
+
+```text
+http://localhost:3000
+```
+
+Наприклад:
+
+```text
+http://localhost:3000/items
+```
+
+## 💻 Запуск проєкту
+
+В окремому терміналі запустіть React/Vite:
+
+```bash
+npm run dev
+```
+
+Після цього відкрийте адресу, яку покаже Vite, зазвичай:
+
+```text
+http://localhost:5173
+```
+
+Таким чином, для локальної розробки потрібно запустити два процеси:
+
+### Terminal 1 — JSON Server
+
+```bash
+npx json-server db.json
+```
+
+### Terminal 2 — React
+
+```bash
+npm run dev
+```
+
+## 🌍 Мультимовність
+
+Для мультимовності використовується `i18next` та `react-i18next`.
+
+Поточна структура дозволяє додавати нові мови без зміни основної логіки застосунку.
+
+Приклад:
+
+```text
+src/
+└── locales/
+    ├── uk.json
+    └── en.json
 ```
