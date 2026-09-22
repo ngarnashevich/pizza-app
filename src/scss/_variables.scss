@@ -1,0 +1,27 @@
+$black: #232323;
+$background: #f8fafc;
+$gray-line: #f7f7f7;
+$orange: #fe5f1e;
+
+$container-width: 90%;
+
+$duration: 0.15s;
+
+$unitPxVw: 14.4; //pc
+
+$font_family_normal: 'SamsungOne', arial, sans-serif;
+$font_family_header: 'SamsungSharpSans', arial, sans-serif;
+
+@function vw($valueInPx, $basewidthUnitInPx: $unitPxVw) {
+    @return calc($valueInPx / $basewidthUnitInPx) + vw;
+}
+
+@function rem($value) {
+    @return #{$value/16 + 'rem'};
+}
+
+@mixin media-max($width) {
+    @media (max-width: $width+ 'px') {
+        @content;
+    }
+}

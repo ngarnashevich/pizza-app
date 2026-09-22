@@ -1,0 +1,14 @@
+{
+  "header": {
+    "cart": "Cart",
+    "home": "Home",
+    "title": "We cook with love. We deliver quickly."
+  },
+  "categories": {
+    "meat": "Meat",
+    "chicken": "Chicken",
+    "vegetables": "Vegetables",
+    "cheese": "Cheese",
+    "seafood": "Seafood"
+  }
+}

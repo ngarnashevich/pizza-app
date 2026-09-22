@@ -1,0 +1,1700 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Пепероні",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Салямі",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "М'ясна",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Мисливська",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Пепероні BBQ",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "М'ясний Бум",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 0,
+      "rating": 7
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Ковбасна",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 40],
+      "price": 390,
+      "category": 0,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Пепероні Premium",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 0,
+      "rating": 9
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "М'ясний Мікс",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 0,
+      "rating": 3
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Шинка та сир",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "М'ясний Фестиваль",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Пепероні Deluxe",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Салямі Гриль",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Барбекю М'ясна",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Карне",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 690,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "М'ясна Італія",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Пепероні Classic",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "М'ясна Гостра",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 0,
+      "rating": 7
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Фірмова М'ясна",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 40],
+      "price": 640,
+      "category": 0,
+      "rating": 5
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "М'ясна Special",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 0,
+      "rating": 9
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Пепероні Hot",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 0,
+      "rating": 3
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "М'ясна Original",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Пепероні Italiano",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 320,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "М'ясна Premium",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Баварська",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 490,
+      "category": 0,
+      "rating": 7
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Мисливський Мікс",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 560,
+      "category": 0,
+      "rating": 9
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Баварська з шинкою",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 610,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Карпаччо",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 680,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "М'ясний Драйв",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 540,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Курка BBQ",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 1,
+      "rating": 5
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Курка Теріякі",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 520,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Курка Цезар",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Курка з грибами",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Курка Гриль",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Курка Кремова",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Курка з ананасами",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Курка Sweet Chili",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 1,
+      "rating": 3
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Курка Premium",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Курка з беконом",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 1,
+      "rating": 5
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Курка по-італійськи",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Курка BBQ Deluxe",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Курка з сиром",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Курка Гавайська",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Курка Філадельфія",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 44,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Курка з овочами",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 45,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Курка Медова",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 46,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Курка Песто",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 47,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Курка Фірмова",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 48,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Курка Пікантна",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 520,
+      "category": 1,
+      "rating": 5
+    },
+    {
+      "id": 49,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Курка Димна",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 50,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Курка Мексиканська",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 51,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Курка Баланс",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 52,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Курка Special",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 53,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Курка Дорблю",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 620,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 54,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Курка з журавлиною",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 590,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 55,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Курка Спайсі",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 480,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 56,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Курка Пармезан",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 670,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 57,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Курка Каррі",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 530,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 58,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Diablo",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 59,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Гостра салямі",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 640,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 60,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Spicy Pepperoni",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 61,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Пекельна Пепероні",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 62,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Red Hot",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 63,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Халапеньйо Hot",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 64,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Fire Pizza",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 65,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Чилі BBQ",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 66,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Hot Salami",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 67,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Пекуча",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 68,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Гостра Італія",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 69,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Diablo Premium",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 70,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Чилі Пепероні",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 71,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Spicy Mix",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 72,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Fire Salami",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 73,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Гострий М'ясний Мікс",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 74,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Hot Deluxe",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 75,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Пекельна BBQ",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 640,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 76,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Чилі Гриль",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 77,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Spicy Italiano",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 78,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Red Pepper",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 390,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 79,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Hot Original",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 80,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Diablo Max",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 81,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Fire Premium",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 82,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Вулькано",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 40],
+      "price": 630,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 83,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Чилі Бум",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 510,
+      "category": 2,
+      "rating": 7
+    },
+    {
+      "id": 84,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Гостра Баварія",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 570,
+      "category": 2,
+      "rating": 9
+    },
+    {
+      "id": 85,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Спайсі Кінза",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 40],
+      "price": 490,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 86,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Гострий Дракон",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 710,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 87,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Бургер-піцца",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 88,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Чізбургер Deluxe",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 690,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 89,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Бекон Бургер",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 90,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "BBQ Burger",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 91,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Double Burger",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 520,
+      "category": 3,
+      "rating": 6
+    },
+    {
+      "id": 92,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Burger Cheese",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 93,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Burger Classic",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 3,
+      "rating": 5
+    },
+    {
+      "id": 94,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Smoky Burger",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 640,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 95,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Cheese Burger",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 96,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Burger Premium",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 97,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Bacon Deluxe",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 98,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Burger BBQ",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 740,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 99,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Burger House",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 3,
+      "rating": 6
+    },
+    {
+      "id": 100,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "American Burger",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 640,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 101,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Burger Special",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 102,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Big Burger",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 103,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Burger Grill",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 520,
+      "category": 3,
+      "rating": 5
+    },
+    {
+      "id": 104,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Cheddar Burger",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 105,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Classic Burger",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 106,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Burger Max",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 740,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 107,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Texas Burger",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 108,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Burger Ranch",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 3,
+      "rating": 6
+    },
+    {
+      "id": 109,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Burger Street",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 110,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Burger King",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 111,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Гриль Мікс",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 550,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 112,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "BBQ Ribs",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 680,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 113,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Стейк Піца",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 720,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 114,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Гриль Бекон",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 490,
+      "category": 3,
+      "rating": 6
+    },
+    {
+      "id": 115,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Криспі Бургер",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 530,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 116,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Маргарита Класік",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 117,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Маргарита Premium",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 118,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Класична Маргарита",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 4,
+      "rating": 9
+    },
+    {
+      "id": 119,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Маргарита Napoli",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 4,
+      "rating": 7
+    },
+    {
+      "id": 120,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Маргарита Verde",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 580,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 121,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Маргарита Classico",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 640,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 122,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Моцарела та базилік",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 6
+    },
+    {
+      "id": 123,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Томатна Маргарита",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 320,
+      "category": 4,
+      "rating": 7
+    },
+    {
+      "id": 124,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Маргарита Італія",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 690,
+      "category": 4,
+      "rating": 9
+    },
+    {
+      "id": 125,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Маргарита Fresca",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 126,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Маргарита Песто",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 740,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 127,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Маргарита Cheese",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 4,
+      "rating": 5
+    },
+    {
+      "id": 128,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Маргарита Light",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 390,
+      "category": 4,
+      "rating": 6
+    },
+    {
+      "id": 129,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Чотири сезони Premium",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 520,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 130,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Овочева з грибами",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 390,
+      "category": 4,
+      "rating": 9
+    },
+    {
+      "id": 131,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Сезонна Італія",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 7
+    },
+    {
+      "id": 132,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Гриль овочі",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 580,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 133,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Італійський Мікс",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 640,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 134,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+      "title": "Вегетаріанська",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 320,
+      "category": 4,
+      "rating": 6
+    },
+    {
+      "id": 135,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+      "title": "Фірмова Італія",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 480,
+      "category": 4,
+      "rating": 9
+    },
+    {
+      "id": 136,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+      "title": "Чотири сири",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 590,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 137,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+      "title": "Сирний Бриз",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 40],
+      "price": 420,
+      "category": 4,
+      "rating": 7
+    },
+    {
+      "id": 138,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+      "title": "Сирний Рай",
+      "types": ["Без борта"],
+      "sizes": [26, 30, 40],
+      "price": 610,
+      "category": 4,
+      "rating": 9
+    },
+    {
+      "id": 139,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+      "title": "Чотири сири з горіхом",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 660,
+      "category": 4,
+      "rating": 8
+    },
+    {
+      "id": 140,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+      "title": "Веган Delight",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 380,
+      "category": 4,
+      "rating": 6
+    },
+    {
+      "id": 141,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+      "title": "Шпинат та Рікота",
+      "types": ["Без борта", "Сирні"],
+      "sizes": [26, 30, 40],
+      "price": 540,
+      "category": 4,
+      "rating": 9
+    },
+    {
+      "id": 142,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+      "title": "Грибна з трюфелем",
+      "types": ["Без борта", "Хот-дог"],
+      "sizes": [26, 30, 40],
+      "price": 720,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 143,
+      "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+      "title": "Овочевий Фест",
+      "types": ["Без борта"],
+      "sizes": [26, 40],
+      "price": 360,
+      "category": 4,
+      "rating": 7
+    },
+
+  {
+    "id": 112,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+    "title": "Кальцоне з шинкою та грибами",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 30, 40],
+    "price": 420,
+    "category": 5,
+    "rating": 8
+  },
+  {
+    "id": 113,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+    "title": "Кальцоне Пепероні",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 30, 40],
+    "price": 480,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 114,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+    "title": "Закрита М'ясна",
+    "types": ["Без борта"],
+    "sizes": [26, 40],
+    "price": 590,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 115,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+    "title": "Кальцоне Чотири Сири",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 30, 40],
+    "price": 630,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 116,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+    "title": "Закрита Курка BBQ",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 30, 40],
+    "price": 510,
+    "category": 5,
+    "rating": 6
+  },
+  {
+    "id": 117,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+    "title": "Кальцоне Гавайська",
+    "types": ["Без борта"],
+    "sizes": [26, 30, 40],
+    "price": 460,
+    "category": 5,
+    "rating": 5
+  },
+  {
+    "id": 118,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+    "title": "Закрита Салямі",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 40],
+    "price": 430,
+    "category": 5,
+    "rating": 8
+  },
+  {
+    "id": 119,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+    "title": "Кальцоне Болоньєзе",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 30, 40],
+    "price": 550,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 120,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+    "title": "Закрита Бекон-Сир",
+    "types": ["Без борта"],
+    "sizes": [26, 30, 40],
+    "price": 520,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 121,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+    "title": "Кальцоне Спайсі",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 30, 40],
+    "price": 490,
+    "category": 5,
+    "rating": 8
+  },
+  {
+    "id": 122,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+    "title": "Закрита Італійська",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 40],
+    "price": 580,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 123,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+    "title": "Кальцоне Грибна",
+    "types": ["Без борта"],
+    "sizes": [26, 30, 40],
+    "price": 390,
+    "category": 5,
+    "rating": 6
+  },
+  {
+    "id": 124,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+    "title": "Закрита Мисливська",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 30, 40],
+    "price": 540,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 125,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+    "title": "Кальцоне Пармезан",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 30, 40],
+    "price": 610,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 126,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5901-228x228.jpg",
+    "title": "Закрита Фірмова",
+    "types": ["Без борта"],
+    "sizes": [26, 40],
+    "price": 670,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 127,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5907-228x228.jpg",
+    "title": "Кальцоне Вегетаріанська",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 30, 40],
+    "price": 410,
+    "category": 5,
+    "rating": 5
+  },
+  {
+    "id": 128,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5961-228x228.jpg",
+    "title": "Закрита Баварська",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 30, 40],
+    "price": 530,
+    "category": 5,
+    "rating": 8
+  },
+  {
+    "id": 129,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788093-228x228.jpg",
+    "title": "Кальцоне Шинка-Сир",
+    "types": ["Без борта"],
+    "sizes": [26, 30, 40],
+    "price": 450,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 130,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5953-228x228.jpg",
+    "title": "Закрита Карбонара",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 40],
+    "price": 590,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 131,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5917-228x228.jpg",
+    "title": "Кальцоне Супреме",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 30, 40],
+    "price": 660,
+    "category": 5,
+    "rating": 8
+  },
+  {
+    "id": 132,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5940-228x228.jpg",
+    "title": "Закрита Морська",
+    "types": ["Без борта"],
+    "sizes": [26, 30, 40],
+    "price": 720,
+    "category": 5,
+    "rating": 9
+  },
+  {
+    "id": 133,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/pizza/ABC_5946-228x228.jpg",
+    "title": "Кальцоне Чізбургер",
+    "types": ["Без борта", "Сирні"],
+    "sizes": [26, 30, 40],
+    "price": 570,
+    "category": 5,
+    "rating": 8
+  },
+  {
+    "id": 134,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788092-228x228.jpg",
+    "title": "Закрита Мексиканська",
+    "types": ["Без борта", "Хот-дог"],
+    "sizes": [26, 40],
+    "price": 530,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 135,
+    "imageUrl": "https://kyiv.stop-pizza.com.ua/image/cache/catalog/5337158166145788095-228x228.jpg",
+    "title": "Кальцоне Дорблю",
+    "types": ["Без борта"],
+    "sizes": [26, 30, 40],
+    "price": 650,
+    "category": 5,
+    "rating": 10
+  }
+  ],
+  "accounts": [],
+  "posts": [
+    {
+      "id": 1,
+      "text": "Перший пост",
+      "authorId": 1,
+      "likesCount": 10,
+      "commentsCount": 2,
+      "isLiked": false,
+      "createdAt": "2025-01-15T10:00:00Z"
+    }
+  ],
+  "comments": [],
+  "chats": [],
+  "messages": []
+}
