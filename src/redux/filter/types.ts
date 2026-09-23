@@ -1,5 +1,6 @@
 
 export type SortType = {
+    key: string;
     name: string;
     property:  string;
     order:  string;

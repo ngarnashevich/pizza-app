@@ -4,7 +4,7 @@ import type {SortType, FilterState} from './types';
 
 const initialState: FilterState = {
     searchValue: '',
-    sort: { name: 'За популярністю', property: 'title', order: 'desc' },
+    sort: {  key: 'popular', name: 'За популярністю', property: 'title', order: 'desc' },
     categoryId: 0,
     currentPage: 1,
 };

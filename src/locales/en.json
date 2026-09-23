@@ -1,14 +1,41 @@
 {
-  "header": {
-    "cart": "Cart",
-    "home": "Home",
-    "title": "We cook with love. We deliver quickly."
-  },
-  "categories": {
-    "meat": "Meat",
-    "chicken": "Chicken",
-    "vegetables": "Vegetables",
-    "cheese": "Cheese",
-    "seafood": "Seafood"
-  }
+    "header": {
+        "cart": "Cart",
+        "home": "Home",
+        "title": "We cook with love. We deliver quickly.",
+        "search": "Search..."
+    },
+    "footer": {
+        "copy": "React | Redux pizza All rights reserved"
+    },
+    "main": {
+        "title": "All pizzas"
+    },
+    "sort": {
+        "title": "Sort by:",
+        "popular": "By popularity",
+        "priceA": "Price: Ascending",
+        "priceD": "Price: Descending",
+        "nameA": "Name: A → Z",
+        "nameZ": "Name: Z → A"
+    },
+     "card": {
+        "buy": "Buy"
+    },
+    "cart": {
+        "title": "Basket",
+        "clearAll": "Delete all",
+        "allPizzas": "All pizzas",
+        "fullPrice": "Full price",
+        "back": "Return to home page",
+        "buy": "Order"
+    },
+    "categories": {
+      "all": "All",
+      "meat": "Meat",
+      "chicken": "Vegetarian",
+      "vegetables": "Grilled",
+      "spicy": "Spicy",
+      "seafood": "Seafood"
+    }
 }

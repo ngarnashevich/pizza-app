@@ -114,6 +114,43 @@
     margin-right: 14px;
 }
 
+.lang {
+    display: inline-flex;
+    position: relative;
+    background: #f0f0f0;
+    border-radius: 20px;
+    padding: 3px;
+    gap: 2px;
+    font-family: sans-serif;
+
+    button {
+        padding: 6px 18px;
+        border-radius: 16px;
+        font-size: 13px;
+        font-weight: 500;
+        color: #888;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        transition:
+            background 0.2s ease,
+            color 0.2s ease;
+    }
+
+    button.active {
+        background: #fff;
+        color: #111827;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    }
+    button.active {
+        background: #d85a30;
+        color: #fff;
+    }
+    button:not(.active):hover {
+        color: #555;
+    }
+}
+
 @media only screen and (max-width: 767px) {
     .container {
         flex-direction: column;

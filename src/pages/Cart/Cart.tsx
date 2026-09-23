@@ -1,4 +1,5 @@
 import { Link } from 'react-router';
+import { useTranslation } from 'react-i18next';
 import { useSelector, useDispatch } from 'react-redux';
 import { clearItems } from '@/redux/cart/slice';
 import { cartSelector } from '@/redux/cart/selectors';
@@ -9,6 +10,7 @@ import {EmptyCart, CartItem} from '@/components/';
 import styles from './Cart.module.scss';
 
 const Cart = () => {
+     const { t } = useTranslation();
     const dispatch = useDispatch();
     const { items, totalCount, totalPrice } = useSelector(cartSelector);
 
@@ -47,7 +49,7 @@ const Cart = () => {
                                 strokeLinejoin="round"
                             />
                         </svg>
-                        Кошик
+                     {t('cart.title')}
                     </h2>
                     <div onClick={onClickClear} className={styles.cartClear}>
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -63,7 +65,7 @@ const Cart = () => {
                             <path d="M11.6666 9.16667V14.1667" stroke="#B6B6B6" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round"></path>
                         </svg>
 
-                        <span>Видалити все</span>
+                        <span>{t('cart.clearAll')}</span>
                     </div>
                 </div>
 
@@ -75,11 +77,11 @@ const Cart = () => {
                         <div className={styles.cartDetails}>
                             <span>
                                 {' '}
-                                Всього піц: <b>{totalCount} шт.</b>{' '}
+                                 {t('cart.allPizzas')} <b>{totalCount} шт.</b>{' '}
                             </span>
                             <span>
                                 {' '}
-                                Вартість заказу: <b>{totalPrice} ₴</b>{' '}
+                               {t('cart.fullPrice')} <b>{totalPrice} ₴</b>{' '}
                             </span>
                         </div>
                         <div className={styles.cartButtons}>
@@ -88,10 +90,10 @@ const Cart = () => {
                                     <path d="M7 13L1 6.93015L6.86175 1" stroke="#D3D3D3" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
                                 </svg>
 
-                                <span>Повернутись назад</span>
+                                <span>{t('cart.back')}</span>
                             </Link>
-                            <Button className="pay-btn">
-                                <span>Замовити зараз</span>
+                            <Button className="pay-btn" onClick={onClickClear} >
+                                <span> {t('cart.buy')}</span>
                             </Button>
                         </div>
                     </div>

@@ -26,7 +26,7 @@ export const  Header:React.FC = () => {
                 </Link>
 
                 {location.pathname !== '/cart' &&  <Search />}
-
+                  <LanguageSwitcher />
                 {location.pathname !== '/cart' && (
                     <Link to="/cart" className={styles.cartLink}>
                         <span>{totalPrice} ₴</span>
@@ -45,7 +45,7 @@ export const  Header:React.FC = () => {
                         <span>{totalCount}</span>
                     </Link>
                 )}
-                <LanguageSwitcher />
+
             </div>
         </div>
     );

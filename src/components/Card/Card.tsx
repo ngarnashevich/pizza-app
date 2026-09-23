@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import { useDispatch } from 'react-redux';
 import { addItem } from '@/redux/cart/slice';
 import type {CartItem} from '@/redux/cart/types';
@@ -16,6 +17,7 @@ type CardProps = {
 }
 
 export const Card: React.FC<CardProps> = ({ id, imageUrl, title, price, sizes, types }) => {
+    const { t } = useTranslation();
     const dispatch = useDispatch();
 
     const [addToCart, setAddToCart] = React.useState(0);
@@ -71,7 +73,7 @@ export const Card: React.FC<CardProps> = ({ id, imageUrl, title, price, sizes, t
                             fill="white"
                         />
                     </svg>
-                    <span>Замовити</span>
+                    <span>{t('card.buy')}</span>
 
                     {addToCart !== 0 && <i>{addToCart}</i>}
                 </Button>
