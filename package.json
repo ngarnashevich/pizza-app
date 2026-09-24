@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "start": "json-server --host 0.0.0.0 --port $PORT db.json"
   },
   "dependencies": {
     "@types/lodash.debounce": "^4.0.9",
@@ -18,7 +19,8 @@
     "react-dom": "^19.2.8",
     "react-i18next": "^17.0.15",
     "react-router": "^8.4.0",
-    "redux-persist": "^6.0.0"
+    "redux-persist": "^6.0.0",
+    "json-server": "^1.0.0"
   },
   "devDependencies": {
     "@acusti/vite-plugin-react-compiler": "^0.5.0",
