@@ -1,8 +1,8 @@
 # 🍕 Pizza App
 
-Вебзастосунок для перегляду та замовлення піци з категоріями, фільтрацією, сортуванням, пагінацією та мультимовністю.
+A web application for browsing and ordering pizza with categories, filtering, sorting, pagination, and multilingual support.
 
-## 🛠 Стек
+## 🛠 Tech Stack
 
 - React 19
 - TypeScript
@@ -19,21 +19,21 @@
 - JSON Server
 - Vite
 
-## 🚀 Встановлення
+## 🚀 Installation
 
-Клонуйте репозиторій:
+Clone the repository:
 
 ```bash
 git clone https://github.com/ngarnashevich/pizza-app.git
 ```
 
-Перейдіть у папку проєкту:
+Navigate to the project directory:
 
 ```bash
 cd pizza-app
 ```
 
-Встановіть залежності:
+Install dependencies:
 
 ```bash
 npm install
@@ -41,49 +41,49 @@ npm install
 
 ## 🗄 JSON Server
 
-Для роботи з локальним API використовується `json-server`.
+The application uses `json-server` as a local API.
 
-Встановіть його як dev-залежність:
+Install it as a development dependency:
 
 ```bash
 npm install -D json-server
 ```
 
-Перевірити встановлення:
+Check the installation:
 
 ```bash
 npx json-server --version
 ```
 
-## 📦 Створення бази даних
+## 📦 Database Setup
 
-Дані для JSON Server зберігаються у файлі:
+The data for JSON Server is stored in the file:
 
 ```text
 data/items.json
 ```
 
-Перед запуском API потрібно створити файл:
+Before starting the API, create the following file:
 
 ```text
 db.json
 ```
 
-та перенести в нього дані з `data/items.json`.
+and copy the data from `data/items.json` into it.
 
-Для macOS / Linux:
+For macOS / Linux:
 
 ```bash
 cp data/items.json db.json
 ```
 
-Для Windows:
+For Windows:
 
 ```cmd
 copy data\items.json db.json
 ```
 
-Структура проєкту:
+Project structure:
 
 ```text
 pizza-app/
@@ -100,71 +100,71 @@ pizza-app/
 
 ## ⚙️ Environment Variables
 
-URL API не потрібно прописувати безпосередньо в компонентах. Він зберігається в `.env`.
+The API URL should not be hardcoded directly into components. It is stored in `.env`.
 
-Створіть у корені проєкту файл:
+Create a file in the project root:
 
 ```text
 .env
 ```
 
-Приклад:
+Example:
 
 ```env
 VITE_API_URL=http://localhost:3000
 ```
 
-Також у репозиторії є файл:
+The repository also contains the following file:
 
 ```text
 .env.example
 ```
 
-Його потрібно використовувати як шаблон:
+Use it as a template:
 
 ```env
 VITE_API_URL=http://localhost:3000
 ```
 
-`.env` не повинен потрапляти в Git, тому він доданий до `.gitignore`.
+The `.env` file should not be committed to Git, so it is included in `.gitignore`.
 
-> Для Vite змінні, які використовуються у frontend-коді, повинні починатися з `VITE_`.
+> For Vite, environment variables used in frontend code must start with `VITE_`.
 
-## ▶️ Запуск JSON Server
+## ▶️ Running JSON Server
 
-Після створення `db.json` запустіть сервер:
+After creating `db.json`, start the server:
 
 ```bash
 npx json-server db.json
 ```
 
-За замовчуванням API буде доступне за адресою:
+By default, the API will be available at:
 
 ```text
 http://localhost:3000
 ```
 
-Наприклад:
+For example:
 
 ```text
 http://localhost:3000/items
 ```
 
-## 💻 Запуск проєкту
+## 💻 Running the Project
 
-В окремому терміналі запустіть React/Vite:
+In a separate terminal, start the React/Vite development server:
 
 ```bash
 npm run dev
 ```
 
-Після цього відкрийте адресу, яку покаже Vite, зазвичай:
+Then open the URL provided by Vite, usually:
 
 ```text
 http://localhost:5173
 ```
 
-Таким чином, для локальної розробки потрібно запустити два процеси:
+For local development, two processes need to be running:
 
 ### Terminal 1 — JSON Server
 
@@ -178,13 +178,13 @@ npx json-server db.json
 npm run dev
 ```
 
-## 🌍 Мультимовність
+## 🌍 Multilingual Support
 
-Для мультимовності використовується `i18next` та `react-i18next`.
+The application uses `i18next` and `react-i18next` for multilingual support.
 
-Поточна структура дозволяє додавати нові мови без зміни основної логіки застосунку.
+The current structure allows new languages to be added without changing the core application logic.
 
-Приклад:
+Example:
 
 ```text
 src/
