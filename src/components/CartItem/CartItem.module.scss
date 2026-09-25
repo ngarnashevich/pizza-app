@@ -3,8 +3,8 @@
     align-items: center;
     width: 100%;
     border-top: 1px solid #f7f7f7;
-    padding-top: 30px;
-    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .cartImage {
@@ -95,6 +95,42 @@
         &:active {
             border-color: #333333;
             background-color: #333333;
+        }
+    }
+}
+@media (max-width: 767px) {
+    .cartInfo {
+        width: 33%;
+
+        h3 {
+            font-size: 12px;
+        }
+
+        p {
+            font-size: 12px;
+        }
+    }
+    .cartImage {
+        width: 16%;
+        margin-right: 0;
+    }
+    .image {
+        width: 50px;
+        height: 50px;
+    }
+
+    .cartPrice {
+        width: 20%;
+
+        b {
+            font-size: 12px;
+        }
+    }
+
+    .cartCount {
+        width: 22%;
+        b {
+            font-size: 12px;
         }
     }
 }

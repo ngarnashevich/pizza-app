@@ -67,6 +67,14 @@ body {
         }
     }
 }
+@media (max-width: 767px) {
+    .container {
+        padding: 10px 10px 0;
+        &--cart {
+            margin: 45px auto;
+        }
+    }
+}
 
 footer {
     margin-top: 60px;

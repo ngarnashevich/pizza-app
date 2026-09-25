@@ -180,3 +180,27 @@
         }
     }
 }
+
+@media (max-width: 767px) {
+    .cardBtnBack {
+        width: 165px;
+        height: 47px;
+        padding: 0 5px;
+        font-size: 12px;
+        svg {
+            display: none;
+        }
+    }
+    .cartTop {
+        margin-bottom: 16px;
+    }
+    .title {
+        font-size: 18px;
+    }
+
+    .cartDetails {
+        span {
+            font-size: 14px;
+        }
+    }
+}
