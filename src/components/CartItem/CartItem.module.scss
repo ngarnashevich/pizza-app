@@ -67,6 +67,22 @@
     }
 }
 
+.minusIcon:hover,
+.plusIcon:hover {
+    fill: #fe5f1e;
+    stroke: white;
+}
+
+.removeIcon:hover {
+    fill: black;
+    stroke: white;
+}
+.minusIcon,
+.plusIcon,
+.removeIcon {
+    cursor: pointer;
+}
+
 .cartRemove {
     display: flex;
     align-items: center;

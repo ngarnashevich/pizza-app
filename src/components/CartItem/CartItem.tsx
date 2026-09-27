@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './CartItem.module.scss';
 import { useDispatch } from 'react-redux';
 import { plusItem, minusItem, removeItem } from '@/redux/cart/slice';
+import { CirclePlus, CircleMinus, CircleX } from 'lucide-react';
 import Button from '@/ui/Button/Button';
 
 type CartItemProps = {
@@ -39,8 +40,9 @@ export const CartItem: React.FC<CartItemProps> = ({ id, imageUrl, title, price, 
                     {types}, {sizes} см.
                 </p>
             </div>
+
             <div className={styles.cartCount}>
-                <Button className="circle" onClick={onClickMinus}>
+                {/* <Button className="circle" >
                     <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M5.92001 3.84V5.76V8.64C5.92001 9.17016 5.49017 9.6 4.96001 9.6C4.42985 9.6 4.00001 9.17016 4.00001 8.64L4 5.76L4.00001 3.84V0.96C4.00001 0.42984 4.42985 0 4.96001 0C5.49017 0 5.92001 0.42984 5.92001 0.96V3.84Z" fill="#EB5A1E" />
                         <path
@@ -48,10 +50,11 @@ export const CartItem: React.FC<CartItemProps> = ({ id, imageUrl, title, price, 
                             fill="#EB5A1E"
                         />
                     </svg>
-                </Button>
+                </Button> */}
+                <CircleMinus className={styles.minusIcon} color="#fe5f1e" size={32} strokeWidth={1} onClick={onClickMinus} />
 
                 <b>{count}</b>
-                <Button className="circle" onClick={onClickPlus}>
+                {/* <Button className="circle" >
                     <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M5.92001 3.84V5.76V8.64C5.92001 9.17016 5.49017 9.6 4.96001 9.6C4.42985 9.6 4.00001 9.17016 4.00001 8.64L4 5.76L4.00001 3.84V0.96C4.00001 0.42984 4.42985 0 4.96001 0C5.49017 0 5.92001 0.42984 5.92001 0.96V3.84Z" fill="#EB5A1E" />
                         <path
@@ -59,12 +62,14 @@ export const CartItem: React.FC<CartItemProps> = ({ id, imageUrl, title, price, 
                             fill="#EB5A1E"
                         />
                     </svg>
-                </Button>
+                </Button> */}
+
+                <CirclePlus className={styles.plusIcon} color="#fe5f1e" size={32} strokeWidth={1} onClick={onClickPlus} />
             </div>
             <div className={styles.cartPrice}>
                 <b>{price * count} ₴</b>
             </div>
-            <Button className="remove" onClick={onClickRemove}>
+            {/* <Button className="remove" >
                 <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M5.92001 3.84V5.76V8.64C5.92001 9.17016 5.49017 9.6 4.96001 9.6C4.42985 9.6 4.00001 9.17016 4.00001 8.64L4 5.76L4.00001 3.84V0.96C4.00001 0.42984 4.42985 0 4.96001 0C5.49017 0 5.92001 0.42984 5.92001 0.96V3.84Z" fill="#EB5A1E" />
                     <path
@@ -72,7 +77,9 @@ export const CartItem: React.FC<CartItemProps> = ({ id, imageUrl, title, price, 
                         fill="#EB5A1E"
                     />
                 </svg>
-            </Button>
+            </Button> */}
+            <CircleX size={32} className={styles.removeIcon} color="#d0d0d0" strokeWidth={1}  cursor-pointer onClick={onClickRemove} />
+
         </div>
     );
 }
