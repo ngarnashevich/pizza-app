@@ -2,6 +2,8 @@
 
 A web application for browsing and ordering pizza with categories, filtering, sorting, pagination, and multilingual support.
 
+[🚀 Live Demo](https://pizza-app-sigma-livid.vercel.app/)
+
 ## 🛠 Tech Stack
 
 - React 19
