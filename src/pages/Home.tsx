@@ -66,7 +66,7 @@ const Home = () => {
             </div>
 
             <h2 className="content__title">Усі піцци</h2>
-            <div className="content__items">{status == 'loading' ? [...new Array(8)].map((_, index) => <CardSkeleton key={index} />) : items.filter((obj) => obj.title.toLowerCase().includes(searchValue.toLowerCase())).map((obj) => <Card key={obj.id} {...obj} />)}</div>
+            <div className="content__items">{status !== 'success' ? [...new Array(8)].map((_, index) => <CardSkeleton key={index} />) : items.filter((obj) => obj.title.toLowerCase().includes(searchValue.toLowerCase())).map((obj) => <Card key={obj.id} {...obj} />)}</div>
 
             <PaginatedItems currentPage={currentPage} />
         </div>
